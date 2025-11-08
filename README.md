@@ -20,5 +20,5 @@ I'm a BS Information Technology student at Mehran University learning Offensive 
 
 ## Contact
 - Email: azanr9969@gmail.com  
-- Portfolio: [Click Here](https://idyllic-chebakia-013756.netlify.app)
-- Fiverr: [Click Here](https://www.fiverr.com/)
+- Portfolio: [Click Here] [https://azan-portfolio.netlify.app/]
+- Fiverr: [Click Here](https://www.fiverr.com/s/YRZkLl4)
