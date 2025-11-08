@@ -1,16 +1,24 @@
-## Hi there 👋
+# Muhammad Azan 👋
+Cybersecurity / Ethical Hacker | Hyderabad, Pakistan  
+📫 azanr9969@gmail.com | 🌐 [Portfolio](https://idyllic-chebakia-013756.netlify.app)
 
-<!--
-**AzanContentLab/AzanContentLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+I'm a BS Information Technology student at Mehran University learning Offensive Security, Network Security, Linux, and Python automation. I solve TryHackMe rooms, write CTF writeups, and create small pentest tools/scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Offensive Security: Vulnerability discovery, client-side attacks, HTA/VBA basics  
+- Tools: Nmap, Burp Suite, Metasploit, Wireshark, BloodHound  
+- OS & Dev: Kali Linux, Bash, Python3, Windows Internals  
+- Learning: TryHackMe labs, CTF challenges, Pentesting labs
+
+## Pinned Projects
+- **ctf-writeups** — My CTF & TryHackMe walkthroughs.  
+- **pentest-labs** — Lab exercises & PoCs.  
+- **tooling-scripts** — Small scripts to automate pentest tasks.
+
+## Contact
+- Email: azanr9969@gmail.com  
+- Portfolio: [Click Here](https://idyllic-chebakia-013756.netlify.app)
+- Fiverr: [Click Here](https://www.fiverr.com/)
